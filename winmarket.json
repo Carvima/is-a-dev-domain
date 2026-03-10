@@ -1,9 +1,14 @@
 {
+  "description": "WIN MARKET digital services",
+
+  "repo": "https://github.com/Carvima/winmarket",
+
   "owner": {
-    "username": "carlosvima",
-    "email": "carlosvima7@gmail.com"
+    "username": "carlosvm",
+    "email": "carlosvm@gmail.com"
   },
-  "record": {
-    "CNAME": "guide-societies-equity-moptry.trycloudflare.com"
+
+  "records": {
+    "CNAME": "wide-societies-equity-merry.trycloudflare.com"
   }
 }
